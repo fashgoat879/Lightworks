@@ -221,4 +221,4 @@ Lightworks is available as a **full free version** with all features and updates
 Download Lightworks today and take your video editing skills to the next level! Enjoy the complete package for free and start creating stunning videos now!
 
 ---
-**Last updated:** 2026-09-23 11:04:27 UTC
+**Last updated:** 2026-09-23 16:25:57 UTC
